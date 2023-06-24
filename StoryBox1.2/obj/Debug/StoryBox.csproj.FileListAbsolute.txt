@@ -1,0 +1,193 @@
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\StoryBox.exe.config
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\StoryBox.exe
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\StoryBox.pdb
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.Properties.Resources.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.exe
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.pdb
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaInicial.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionario.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionarioLivros.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaClienteCadastro.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaClienteCarrinho.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaCliente.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionarioCadastrarLivro.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionarioClientes.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionarioRelatorios.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaGenerosFuncionario.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaClientePerfilUsuario.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionarioCadastroCliente.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.telaClienteCarrinhoComprar.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.telaClienteComprarUmLivro.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaClienteInformacoesLivro.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaLoginCliente.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaLoginFuncionario.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TelaFuncionarioAdicionarGenero.resources
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Controller.exe
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Model.exe
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Controller.pdb
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Controller.exe.config
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Model.pdb
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Model.exe.config
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.csproj.CopyComplete
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\MySql.Data.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Google.Protobuf.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Memory.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Buffers.dll
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\MySql.Data.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Google.Protobuf.pdb
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\Google.Protobuf.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Memory.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\bin\Debug\System.Buffers.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.TrustInfo.xml
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.exe.manifest
+C:\Users\franc\source\repos\StoryBox\StoryBox\obj\Debug\StoryBox.application
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\StoryBox.exe.config
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\StoryBox.exe.manifest
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\StoryBox.application
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\StoryBox.exe
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\StoryBox.pdb
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Controller.exe
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Model.exe
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\MySql.Data.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Google.Protobuf.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Memory.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.IO.Pipelines.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Buffers.dll
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Controller.pdb
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Controller.exe.config
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Model.pdb
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Model.exe.config
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\MySql.Data.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Google.Protobuf.pdb
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\Google.Protobuf.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Memory.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.IO.Pipelines.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\bin\Debug\System.Buffers.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaClienteCadastro.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaClienteCarrinho.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaCliente.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.telaClienteCarrinhoComprar.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.telaClienteComprarUmLivro.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaClienteInformacoesLivro.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaFuncionarioAdicionarGenero.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaFuncionarioCadastrarLivro.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaFuncionarioClientes.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaFuncionarioRelatorios.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.Properties.Resources.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaClientePerfilUsuario.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaLoginCliente.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TelaLoginFuncionario.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.TrustInfo.xml
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.exe.manifest
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.application
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.csproj.CopyComplete
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.exe
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.pdb
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.StoryBox.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.Generos.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.Funcionario.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.Livros.resources
+C:\Users\franc\source\repos\StoryBox - Copia\StoryBox\obj\Debug\StoryBox.Cadastro.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\StoryBox.exe.config
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\StoryBox.exe.manifest
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\StoryBox.application
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\StoryBox.exe
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\StoryBox.pdb
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Controller.exe
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Model.exe
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\MySql.Data.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Google.Protobuf.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Memory.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Buffers.dll
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Controller.pdb
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Controller.exe.config
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Model.pdb
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Model.exe.config
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\MySql.Data.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Google.Protobuf.pdb
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\Google.Protobuf.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Memory.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\bin\Debug\System.Buffers.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaClienteCadastro.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaClienteCarrinho.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaCliente.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.telaClienteCarrinhoComprar.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.telaClienteComprarUmLivro.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaClienteInformacoesLivro.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.Funcionario.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaFuncionarioAdicionarGenero.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaFuncionarioCadastrarLivro.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.Cadastro.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaFuncionarioClientes.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.Livros.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaFuncionarioRelatorios.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.Generos.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.StoryBox.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.Properties.Resources.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaClientePerfilUsuario.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaLoginCliente.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TelaLoginFuncionario.resources
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.TrustInfo.xml
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.exe.manifest
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.application
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.csproj.CopyComplete
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.exe
+C:\Users\franc\source\repos\StoryBox1.2\StoryBox1.2\obj\Debug\StoryBox.pdb
